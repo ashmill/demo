@@ -6,3 +6,5 @@ This is a simple readme file
 
 This is some additional text
 
+And some additional 1.0 text
+
